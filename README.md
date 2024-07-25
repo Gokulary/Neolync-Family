@@ -58,7 +58,7 @@
     <section class="container">
         <h2>Our Neolync Team</h2>
         <div class="image-container">
-            <img src="WhatsApp Image 2024-01-02 at 16.03.07_66161c02.jpg" 
+            <img src="WhatsApp Image 2024-07-19 at 14.17.19_217df334.jpg" 
                  alt="Neolync team Gaurav Gaur farewell image" style="width:30%; height:30%;">
         </div>
         <p>This is our Neolync team during Gaurav Gaur's farewell event.</p>
