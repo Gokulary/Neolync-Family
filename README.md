@@ -59,7 +59,7 @@
         <h2>Our Neolync Team</h2>
         <div class="image-container">
             <img src="https://github.com/Gokulary/Neolync-Family/blob/main/WhatsApp%20Image%202024-01-02%20at%2016.03.07_66161c02.jpg" 
-                 alt="Neolync team Gaurav Gaur farewell image" style="width:50%; height:auto;">
+                 alt="Neolync team Gaurav Gaur farewell image" style="width:100%; height:auto;">
         </div>
         <p>This is our Neolync team during Gaurav Gaur's farewell event.</p>
     </section>
