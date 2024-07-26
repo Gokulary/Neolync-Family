@@ -16,7 +16,16 @@
             padding: 20px 0;
             text-align: center;
         }
-        .header h1 {
+     
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+          .header h1 {
             margin: 0;
             font-size: 2.5em;
         }
@@ -32,32 +41,6 @@
         .header .block p {
             margin: 0;
             font-size: 1.2em;
-        
-        }
-        .container {
-            width: 80%;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        h2 {
-            color: #333;
-        }
-        p {
-            color: #555;
-        }
-        .event-image {
-            display: block;
-            margin: 20px auto;
-            max-width: 100%;
-            height: auto;
-            border-radius: 8px;
          }
        footer {
             background-color: #333;
