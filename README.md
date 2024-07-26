@@ -36,6 +36,13 @@
             max-width: 100%;
             height: auto;
             border-radius: 8px;
+         }
+        footer a {
+            color: #fff;
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
@@ -77,8 +84,11 @@
         <h2>In Conclusion</h2>
         <p>The farewell event at Cafe99 was a memorable one, filled with laughter, tears, and a sense of gratitude. It was a perfect tribute to Gaurav Gaur, celebrating his contributions and the wonderful moments shared. The Noida UTNPL team will always remember this special day and the legacy Gaurav leaves behind.</p>
 
-<footer>
-        <p>Contact Information: gokularya117@gmail.com</p>
+</div>
+
+    <footer>
+        <p>Contact us at: <a href="mailto:Gokularya117@gmail.com">Gokularya117@gmail.com</a></p>
+        <p>&copy; 2024 Noida UTNPL Team. All rights reserved.</p>
     </footer>
 </body>
 </html>
