@@ -96,7 +96,7 @@
 </div>
 <footer>
         <p>Contact us at: <a href="mailto:Gokularya117@gmail.com">Gokularya117@gmail.com</a></p>
-        <p>&copy; 2024 Noida UTNPL Team. All rights reserved.</p>
+        <p>&copy; 2024 Gokularya. All rights reserved.</p>
     </footer>
 </body>
 </html>
