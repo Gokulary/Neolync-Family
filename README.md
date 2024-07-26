@@ -62,7 +62,7 @@
                  alt="Neolync team Gaurav Gaur farewell image" style="width:50%; height:30%;">
                  <img src="https://github.com/Gokulary/Neolync-Family/blob/main/WhatsApp%20Image%202024-07-19%20at%2014.17.21_c17cea4b.jpg">
                  <img src="https://github.com/username/repo_name/blob/main/images/image1.png" alt="Image 1" width="200"/>
-<img src="" alt="Image 2" width="200"/>
+<img src="WhatsApp Image 2024-07-19 at 14.17.24_c686be03.jpg" alt="Image 2" width="200"/>
 <img src="" alt="Image 3" width="200"/>
 
         </div>
