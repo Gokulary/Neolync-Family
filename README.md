@@ -10,6 +10,29 @@
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
+            .header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .header .block {
+            display: inline-block;
+            margin: 20px;
+            padding: 20px;
+            background-color: #444;
+            border-radius: 8px;
+            width: 30%;
+            box-sizing: border-box;
+        }
+        .header .block p {
+            margin: 0;
+            font-size: 1.2em;
+        
         }
         .container {
             width: 80%;
