@@ -51,7 +51,7 @@
 <body>
     <header>
         <div class="container">
-            <h1>Neolync Team</h1>
+            <h1>Noida UTNPL Neolync Team</h1>
         </div>
     </header>
 
