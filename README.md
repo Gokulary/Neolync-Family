@@ -66,7 +66,7 @@
         <p>The event also included some light-hearted group activities and games, adding a fun element to the farewell. It was a great way to create more memories and strengthen team bonds.</p>
 
         <h3>6. Farewell Dinner</h3>
-        <p>A delightful dinner was served, with everyone enjoying the delicious food and engaging in lively conversations. It was a perfect blend of camaraderie and celebration.</p>
+        <p>A delightful Lunch was served, with everyone enjoying the delicious food and engaging in lively conversations. It was a perfect blend of camaraderie and celebration.</p>
 
         <h3>7. Closing Remarks</h3>
         <p>In his closing remarks, Gaurav expressed his heartfelt thanks to the team. He shared his experiences and encouraged everyone to continue striving for excellence.</p>
