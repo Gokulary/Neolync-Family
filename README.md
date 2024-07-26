@@ -66,7 +66,7 @@
 <img src="WhatsApp Image 2024-07-19 at 14.17.24_aed6e827.jpg" alt="Image 3" width="500"/>
 <img src="WhatsApp Image 2024-07-19 at 14.17.19_217df334.jpg" alt="Image 4" width="500"/>
 <img src="WhatsApp Image 2024-07-19 at 14.17.24_aed6e827.jpg" alt="Image 5" width="500"/>
-
+<img src="WhatsApp Image 2024-07-19 at 14.17.24_aed6e827.jpg" alt="Image 5" width="500"/>
 
         </div>
         <p>This is our Neolync team during Gaurav Gaur's farewell event.</p>
